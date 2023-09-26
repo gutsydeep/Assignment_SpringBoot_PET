@@ -1,10 +1,9 @@
-This is a backend service that uses Swagger Petstore Api data models as data source with the . It consists of RESTful API service that can perform CRUD
+This is a backend service that uses Swagger Petstore Api data models as data source with the Swagger Petstore Documentation available here :https://petstore.swagger.io/ . It consists of RESTful API service that can perform CRUD
 (Create, Read, Update, Delete) operations on pet data, and has proper error handling for
 various scenarios.
 
 We can test the CRUD APIs using Postman and the Custom Documentation has been done using Swagger.
 After starting the application the documentation can be found at:http://localhost:8080/swagger-ui/#/
-
 
 # Getting Started
 
